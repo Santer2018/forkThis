@@ -1,21 +1,21 @@
-# Project Title
+# How to use GitHub
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### By Terrance
 
 ### Description
 
-Create a description and fill it in here.
+This readme document is simply a document explaining what this documetn is about.
 
 ## Languages used
 
 What languages were used for this repo:
-List them
+HTML
 
 ### Known Bugs
 
-Are there any? If so what are they?
+There are no known bugs.
 
 ## License
 
